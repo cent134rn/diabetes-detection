@@ -1,1 +1,1 @@
-# diabetes-detection
+# diabetes-prediction
